@@ -47,9 +47,9 @@ to run the gallery project locally, follow these steps:
 1. open the project directory in your file explorer.
 2. open the 'index.html' file in your web browser. this can be done by double-clicking the file or by right-clicking and selecting "open with" and then choosing your preferred web browser. 
    this can be done alternatively in browser using command line:
-   on windows: start index.html
-   on macOS: open index.html
-   on Linux: xdg-open index.html
+   on windows: start index.html\\
+   on macOS: open index.html\\
+   on Linux: xdg-open index.html\\
 
 3. The gallery should now be visible in your web browser. ou can navigate through the images using the provided controls and hover on an image to check the effects of hovering on it.
    
